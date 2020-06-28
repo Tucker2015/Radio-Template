@@ -1,0 +1,475 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ad6d90221f3d9623cc80241fb04e7c5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a51d683c14b8dc4f7a67f05103cfe1b8/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0a0794ae59fc97be5d538889cff29c36/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_masked-view] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_slider] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-admob-native-ads] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-admob-native-ads/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-vector-icons] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aed62d2bac094e2293b23123ecd7f09f/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-ads:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cdb3912e4dae682c3b8b587bc4a43cb/jetified-play-services-ads-19.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16625f8ee0a8ba42919dbeeac5486b45/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2dfc35582d32eba5ca0a759587e7c51b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cc134380a64bc5ef29755a1b6987f6f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/kevin/.gradle/caches/transforms-2/files-2.1/05e0462087827867e7f3d0985abd727a/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-system-setting] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-system-setting/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5dcf9738f796f384fe8dd60f06c2ced8/jetified-flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c188dd19d04ed143434e364ae595d783/jetified-stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8161fe1dd1317615185c792f221413f6/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6272227383954edc8893d8c06b24ec68/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aa17121ed6691939680177f8ff3b438d/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/88128e0270e2db3054d7a8af81307805/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/be81a305f81dc2dcd4973302238aefc4/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/10f570b4fb6bd1322c1eb57257471339/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/30742dfd1fd030829427d97f4657e066/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/1e9813e859444a70b81807af4f72cb6b/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cb2cc6ee0b53197f42b5f76aa926b8b8/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e96fc3e04a64e2a601afe8ccd73f0dac/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ffc3f7af1dc5a00ce26b098f1fd2361/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/768d1b44cc676cacd6bb2972e1fd7f12/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cd3886691e99436fe2f6ff3c35f4f9ce/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b10129953149c6063bfca936021a1ac7/jetified-glide-4.7.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gass:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/383af35776a30bfa1238d9cb29045489/jetified-play-services-gass-19.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/60bcf761b2ce5fac28d644dfd37aaa61/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9e2b133d21cfd6096f9bf3803ce058d2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/ef424bb376ca567676f55de602bd1fac/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2c529adcb089ac9be120120f1959fe4a/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8254c172f816c4741e103583074001b7/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3b571207eb9231148908e5d6eca6a6c6/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c0dabae1cf0b7e991d658d0fd40ee176/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/f16297e981e5f1430244f492ea0fb156/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/35fc9a3515ec8290745db36c349e1593/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/dd1eb24a724d468d7b8d330d8479f07e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8bf702dcfde715799293bffdbd54abd7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/4216e2e0ce1cd042b30556e9c65af387/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5d77379c9ca63ec4e4760340c9775882/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/064bb8f4d5b3baaf8f07ae8ccddccfd0/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0ec228b71a5b8cf10ad7193ce19576a2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/029b6b066596da5c4f81f44f38da51fc/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/97193d220ee7bc48cad4a085ad9473db/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/063091e5230f980fef9e71ba6263e829/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d74bb2e6bc8124fce4aaeb62dc614acd/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b0e29e4d5882c52e8aeb3f793ceaeb92/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/7563f53c99b9e40ae55b0d739018169b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a2e00017973d4d7fa0d0d49b8e7ce284/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/803dd75da437c115bf12ec10808e8d00/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16ed7b8be0d835165e57866666d26a83/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0b9c3a49d4fd9a17d38bc9516ff6a3d4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/437fbe57f2d8baae4504c2714f827a49/jetified-gifdecoder-4.7.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6ba2d3d04841518ff16d66a731ef40d3/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/bdbd4da7c5c32806404edd954f55c372/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8b26db89964666efa0b42f6d63f8b0bc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d258bbd0da5407316c8f500832f4a2b8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e7d0c8f6ca6fd2ba158ce4c8eb1be908/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/048d79443ad0227196e378ff521f423f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3d652ba24d488a2a2cd1d291838f0ef0/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d7f6bdeb50968b9562289ac0fb443701/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9b7939e4e25443dda327d98db87f9bb7/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8c04768f06d26fd6c4be4167c46f9af7/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/de90125d510aafd877ddbd95ce8c75ca/jetified-play-services-ads-base-19.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aed62d2bac094e2293b23123ecd7f09f/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aed62d2bac094e2293b23123ecd7f09f/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/1e9813e859444a70b81807af4f72cb6b/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/1e9813e859444a70b81807af4f72cb6b/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cb2cc6ee0b53197f42b5f76aa926b8b8/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cb2cc6ee0b53197f42b5f76aa926b8b8/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b10129953149c6063bfca936021a1ac7/jetified-glide-4.7.1/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b10129953149c6063bfca936021a1ac7/jetified-glide-4.7.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/383af35776a30bfa1238d9cb29045489/jetified-play-services-gass-19.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/383af35776a30bfa1238d9cb29045489/jetified-play-services-gass-19.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/60bcf761b2ce5fac28d644dfd37aaa61/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/60bcf761b2ce5fac28d644dfd37aaa61/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9e2b133d21cfd6096f9bf3803ce058d2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9e2b133d21cfd6096f9bf3803ce058d2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/ef424bb376ca567676f55de602bd1fac/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/ef424bb376ca567676f55de602bd1fac/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a2e00017973d4d7fa0d0d49b8e7ce284/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a2e00017973d4d7fa0d0d49b8e7ce284/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/437fbe57f2d8baae4504c2714f827a49/jetified-gifdecoder-4.7.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/437fbe57f2d8baae4504c2714f827a49/jetified-gifdecoder-4.7.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d7f6bdeb50968b9562289ac0fb443701/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d7f6bdeb50968b9562289ac0fb443701/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9b7939e4e25443dda327d98db87f9bb7/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9b7939e4e25443dda327d98db87f9bb7/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/de90125d510aafd877ddbd95ce8c75ca/jetified-play-services-ads-base-19.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/de90125d510aafd877ddbd95ce8c75ca/jetified-play-services-ads-base-19.2.0/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:11:7-52
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.radiotemplate.MainActivity
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:14:7-24:18
+	android:label
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:17:9-86
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:25:17-81
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:26:7-28:69
+	android:value
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:28:13-67
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml:27:13-69
+uses-sdk
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ad6d90221f3d9623cc80241fb04e7c5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ad6d90221f3d9623cc80241fb04e7c5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a51d683c14b8dc4f7a67f05103cfe1b8/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a51d683c14b8dc4f7a67f05103cfe1b8/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0a0794ae59fc97be5d538889cff29c36/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0a0794ae59fc97be5d538889cff29c36/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_masked-view] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-admob-native-ads] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-admob-native-ads/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-admob-native-ads] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-admob-native-ads/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aed62d2bac094e2293b23123ecd7f09f/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aed62d2bac094e2293b23123ecd7f09f/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cdb3912e4dae682c3b8b587bc4a43cb/jetified-play-services-ads-19.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cdb3912e4dae682c3b8b587bc4a43cb/jetified-play-services-ads-19.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.browser:browser:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16625f8ee0a8ba42919dbeeac5486b45/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16625f8ee0a8ba42919dbeeac5486b45/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2dfc35582d32eba5ca0a759587e7c51b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2dfc35582d32eba5ca0a759587e7c51b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cc134380a64bc5ef29755a1b6987f6f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cc134380a64bc5ef29755a1b6987f6f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/kevin/.gradle/caches/transforms-2/files-2.1/05e0462087827867e7f3d0985abd727a/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kevin/.gradle/caches/transforms-2/files-2.1/05e0462087827867e7f3d0985abd727a/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-system-setting] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-system-setting/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-system-setting] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-system-setting/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5dcf9738f796f384fe8dd60f06c2ced8/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5dcf9738f796f384fe8dd60f06c2ced8/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c188dd19d04ed143434e364ae595d783/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c188dd19d04ed143434e364ae595d783/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8161fe1dd1317615185c792f221413f6/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8161fe1dd1317615185c792f221413f6/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6272227383954edc8893d8c06b24ec68/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6272227383954edc8893d8c06b24ec68/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aa17121ed6691939680177f8ff3b438d/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/aa17121ed6691939680177f8ff3b438d/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/88128e0270e2db3054d7a8af81307805/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/88128e0270e2db3054d7a8af81307805/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/be81a305f81dc2dcd4973302238aefc4/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/be81a305f81dc2dcd4973302238aefc4/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/10f570b4fb6bd1322c1eb57257471339/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/10f570b4fb6bd1322c1eb57257471339/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/30742dfd1fd030829427d97f4657e066/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/30742dfd1fd030829427d97f4657e066/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/1e9813e859444a70b81807af4f72cb6b/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/1e9813e859444a70b81807af4f72cb6b/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cb2cc6ee0b53197f42b5f76aa926b8b8/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cb2cc6ee0b53197f42b5f76aa926b8b8/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e96fc3e04a64e2a601afe8ccd73f0dac/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e96fc3e04a64e2a601afe8ccd73f0dac/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ffc3f7af1dc5a00ce26b098f1fd2361/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2ffc3f7af1dc5a00ce26b098f1fd2361/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/768d1b44cc676cacd6bb2972e1fd7f12/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/768d1b44cc676cacd6bb2972e1fd7f12/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cd3886691e99436fe2f6ff3c35f4f9ce/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/cd3886691e99436fe2f6ff3c35f4f9ce/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b10129953149c6063bfca936021a1ac7/jetified-glide-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b10129953149c6063bfca936021a1ac7/jetified-glide-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gass:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/383af35776a30bfa1238d9cb29045489/jetified-play-services-gass-19.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/383af35776a30bfa1238d9cb29045489/jetified-play-services-gass-19.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/60bcf761b2ce5fac28d644dfd37aaa61/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/60bcf761b2ce5fac28d644dfd37aaa61/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9e2b133d21cfd6096f9bf3803ce058d2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9e2b133d21cfd6096f9bf3803ce058d2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/ef424bb376ca567676f55de602bd1fac/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/ef424bb376ca567676f55de602bd1fac/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2c529adcb089ac9be120120f1959fe4a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/2c529adcb089ac9be120120f1959fe4a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8254c172f816c4741e103583074001b7/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8254c172f816c4741e103583074001b7/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3b571207eb9231148908e5d6eca6a6c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3b571207eb9231148908e5d6eca6a6c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c0dabae1cf0b7e991d658d0fd40ee176/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c0dabae1cf0b7e991d658d0fd40ee176/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/f16297e981e5f1430244f492ea0fb156/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/f16297e981e5f1430244f492ea0fb156/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/35fc9a3515ec8290745db36c349e1593/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/35fc9a3515ec8290745db36c349e1593/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/dd1eb24a724d468d7b8d330d8479f07e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/dd1eb24a724d468d7b8d330d8479f07e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8bf702dcfde715799293bffdbd54abd7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8bf702dcfde715799293bffdbd54abd7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/4216e2e0ce1cd042b30556e9c65af387/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/4216e2e0ce1cd042b30556e9c65af387/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5d77379c9ca63ec4e4760340c9775882/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/5d77379c9ca63ec4e4760340c9775882/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/064bb8f4d5b3baaf8f07ae8ccddccfd0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/064bb8f4d5b3baaf8f07ae8ccddccfd0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0ec228b71a5b8cf10ad7193ce19576a2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0ec228b71a5b8cf10ad7193ce19576a2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/029b6b066596da5c4f81f44f38da51fc/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/029b6b066596da5c4f81f44f38da51fc/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/97193d220ee7bc48cad4a085ad9473db/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/97193d220ee7bc48cad4a085ad9473db/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/063091e5230f980fef9e71ba6263e829/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/063091e5230f980fef9e71ba6263e829/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/13f52bdf67a66569baac996a20425b4e/core-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d74bb2e6bc8124fce4aaeb62dc614acd/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d74bb2e6bc8124fce4aaeb62dc614acd/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b0e29e4d5882c52e8aeb3f793ceaeb92/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/kevin/.gradle/caches/transforms-2/files-2.1/b0e29e4d5882c52e8aeb3f793ceaeb92/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/7563f53c99b9e40ae55b0d739018169b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/7563f53c99b9e40ae55b0d739018169b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a2e00017973d4d7fa0d0d49b8e7ce284/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/a2e00017973d4d7fa0d0d49b8e7ce284/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/803dd75da437c115bf12ec10808e8d00/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/803dd75da437c115bf12ec10808e8d00/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16ed7b8be0d835165e57866666d26a83/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/16ed7b8be0d835165e57866666d26a83/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0b9c3a49d4fd9a17d38bc9516ff6a3d4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0b9c3a49d4fd9a17d38bc9516ff6a3d4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/437fbe57f2d8baae4504c2714f827a49/jetified-gifdecoder-4.7.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/437fbe57f2d8baae4504c2714f827a49/jetified-gifdecoder-4.7.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6ba2d3d04841518ff16d66a731ef40d3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/6ba2d3d04841518ff16d66a731ef40d3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/bdbd4da7c5c32806404edd954f55c372/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/bdbd4da7c5c32806404edd954f55c372/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8b26db89964666efa0b42f6d63f8b0bc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8b26db89964666efa0b42f6d63f8b0bc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d258bbd0da5407316c8f500832f4a2b8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d258bbd0da5407316c8f500832f4a2b8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e7d0c8f6ca6fd2ba158ce4c8eb1be908/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/e7d0c8f6ca6fd2ba158ce4c8eb1be908/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/048d79443ad0227196e378ff521f423f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/048d79443ad0227196e378ff521f423f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3d652ba24d488a2a2cd1d291838f0ef0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/3d652ba24d488a2a2cd1d291838f0ef0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d7f6bdeb50968b9562289ac0fb443701/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d7f6bdeb50968b9562289ac0fb443701/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9b7939e4e25443dda327d98db87f9bb7/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/kevin/.gradle/caches/transforms-2/files-2.1/9b7939e4e25443dda327d98db87f9bb7/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8c04768f06d26fd6c4be4167c46f9af7/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8c04768f06d26fd6c4be4167c46f9af7/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/de90125d510aafd877ddbd95ce8c75ca/jetified-play-services-ads-base-19.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/de90125d510aafd877ddbd95ce8c75ca/jetified-play-services-ads-base-19.2.0/AndroidManifest.xml:5:5-44
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/0cdb3912e4dae682c3b8b587bc4a43cb/jetified-play-services-ads-19.2.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kevin/Apps/RadioTemplate/Radio-Template/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d452a7975c14b421d639c1184f1cae38/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-74
+service#com.guichaguri.trackplayer.service.MusicService
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-24:19
+	android:enabled
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-75
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-23:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-74
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from [:react-native-track-player] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:19-76
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/kevin/Apps/RadioTemplate/Radio-Template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/c41a1a02f71c32a6ed951977f794af6b/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d74bb2e6bc8124fce4aaeb62dc614acd/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/kevin/.gradle/caches/transforms-2/files-2.1/d74bb2e6bc8124fce4aaeb62dc614acd/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.2.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/8453e0f87f6c790c4d9ed3d111997957/jetified-play-services-ads-lite-19.2.0/AndroidManifest.xml:36:13-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kevin/.gradle/caches/transforms-2/files-2.1/43762611c2b008886ea207a8b3bad95e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
