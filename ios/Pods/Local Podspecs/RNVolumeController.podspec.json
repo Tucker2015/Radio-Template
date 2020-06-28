@@ -1,0 +1,26 @@
+{
+  "name": "RNVolumeController",
+  "version": "1.2.1",
+  "summary": "Volume controller for iOS and Android",
+  "homepage": "https://github.com/tlenclos/react-native-volume-controller",
+  "license": "ISC",
+  "authors": {
+    "name": "Victor Carvalho Tavernari"
+  },
+  "source": {
+    "git": "git+https://github.com/Tavernari/react-native-volume-controller.git",
+    "tag": "v1.2.1"
+  },
+  "default_subspecs": "Main",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "preserve_paths": "**/*.js",
+  "subspecs": [
+    {
+      "name": "Main",
+      "source_files": "ios/ReactNativeVolumeController.{h,m}"
+    }
+  ]
+}

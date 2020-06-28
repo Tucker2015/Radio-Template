@@ -1,0 +1,6 @@
+module Pods_RadioTemplate_RadioTemplateTests {
+  umbrella header "Pods-RadioTemplate-RadioTemplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
