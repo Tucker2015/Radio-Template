@@ -20,7 +20,7 @@ import {Icon} from 'react-native-elements';
 import ModalView from '../components/InfoModal';
 
 const image = 'https://ktinternet.net/radio-logos/pcr_logo.jpg';
-const streamUrl = 'https://ais-sa2.cdnstream1.com/1398_128';
+const streamUrl = 'https://streams.ktinternet.net:8010';
 
 export default function Radio({navigation}) {
   const {setIsPlaying} = useContext(Context);
