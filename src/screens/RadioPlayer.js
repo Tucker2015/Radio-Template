@@ -101,8 +101,11 @@ export default function Radio({navigation}) {
   };
 
   async function setup() {
-    await TrackPlayer.setupPlayer({});
+    await TrackPlayer.setupPlayer({
+      waitForBuffer: true
+    });
     await TrackPlayer.updateOptions({
+      
       stopWithApp: true,
       capabilities: [
         TrackPlayer.CAPABILITY_PLAY,
